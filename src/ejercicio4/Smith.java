@@ -9,6 +9,9 @@ public class Smith {
 		
 		System.out.println("hola soy smith");
 		System.out.println("toca cajon");
+		System.out.println("sisas");
+		System.out.println("sisas");
+		
 	}
 
 }
