@@ -18,7 +18,8 @@ public class Smith {
 		System.out.println("HOlaaaaaa ya lo hice");
 =======
 		System.out.println("hola vaca ");
-		System.out.println("mucha loca ");
+		
+		System.out.println("mucha loca omeee");
 		
 >>>>>>> 12b82ce8dd52cbc8950b551553f3a06f5422b081
 >>>>>>> ad37a6529d97dfe5712a9c1140e664f477f06c7c
