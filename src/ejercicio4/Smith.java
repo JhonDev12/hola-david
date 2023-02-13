@@ -8,6 +8,11 @@ public class Smith {
 		
 		
 		System.out.println("hola soy smith");
+		
+		System.out.println("hola soy como es perrito");
+		
+		System.out.println("hola soy como es perrito20");
+		
 	}
 
 }
