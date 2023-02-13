@@ -8,6 +8,7 @@ public class Smith {
 		
 		
 		System.out.println("hola soy smith");
+		System.out.println("toca cajon");
 	}
 
 }
